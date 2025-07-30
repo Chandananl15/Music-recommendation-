@@ -31,5 +31,10 @@ Cached recommendation system
 
 Perfect for music lovers who want a smarter alternative to algorithm-generated playlists!
 
-http://localhost:8502/
+To  Run
 
+Install dependencies: pip install -r requirements.txt
+
+Add your Spotify credentials to .env
+
+Run: streamlit run app.py
